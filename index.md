@@ -1,4 +1,4 @@
-## Welcome to Dr David Hegarty's Page
+#Dr David Hegarty
 
 You can use the [editor on GitHub](https://github.com/dlhegarty/dlhegarty.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
